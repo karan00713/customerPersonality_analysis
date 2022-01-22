@@ -1,0 +1,193 @@
+Age,Education,Martialstatus,Month_income,expenditure,HaveChildren,Num_children,Dt_customer
+23,Bachelor,Alone,25000,2000,No child,0,2021-12-04
+22,Bachelor,Alone,17500,3000,No child,0,2021-12-13
+43,Bachelor,In couple,60000,4700,Has child,1,2021-12-23
+32,Masters,In couple,55000,5000,No child,0,2021-12-17
+38,Ph.D,In couple,110000,17000,Has child,2,2021-12-26
+53,Ph.D,In couple,157000,30000,Has child,2,2021-12-04
+23,Bachelor,Alone,27000,4000,No child,0,2021-12-24
+38,Bachelor,In couple,24000,6500,Has child,1,2021-12-12
+57,Ph.D,In couple,178900,17000,Has child,1,2021-12-12
+48,Masters,In couple,70000,15000,Has child,3,2021-12-03
+59,Bachelor,In couple,87000,9000,Has child,2,2021-12-20
+23,Bachelor,Alone,21000,4000,No child,0,2021-12-21
+28,Bachelor,Alone,35000,3000,No child,0,2021-12-06
+24,Masters,Alone,45000,7000,No child,0,2021-12-05
+28,Masters,Alone,58000,6000,No child,0,2021-12-16
+61,Ph.D,In couple,250000,40000,Has child,2,2021-12-26
+54,Bachelor,In couple,88000,500,Has child,2,2021-12-04
+61,Ph.D,In couple,75000,8000,Has child,1,2021-12-14
+54,Bachelor,In couple,95000,20000,Has child,1,2021-12-24
+24,Masters,Alone,27000,3000,No child,0,2021-12-14
+42,Bachelor,In couple,60000,2000,Has child,2,2021-12-27
+37,Bachelor,In couple,125000,7000,Has child,1,2021-12-15
+29,Ph.D,Alone,160000,32000,Has child,1,2021-12-14
+28,Masters,Alone,60000,15000,No child,0,2021-12-16
+64,Bachelor,Alone,30000,1000,Has child,4,2021-12-14
+22,Bachelor,Alone,20000,5000,No child,0,2021-12-06
+46,Masters,In couple,38000,6800,Has child,1,2021-12-26
+23,Masters,Alone,50000,2500,No child,0,2021-12-10
+45,Bachelor,In couple,30000,10000,Has child,2,2021-12-24
+48,Ph.D,In couple,87000,10000,No child,0,2021-12-18
+56,Bachelor,In couple,50000,16000,Has child,1,2021-12-17
+34,Masters,In couple,73000,5000,Has child,2,2021-12-07
+52,Masters,In couple,66000,8500,Has child,1,2021-12-24
+37,Bachelor,In couple,40000,5000,Has child,1,2021-12-12
+57,Bachelor,In couple,80000,10000,Has child,3,2021-12-01
+30,Bachelor,In couple,25000,2000,Has child,1,2021-12-27
+47,Bachelor,In couple,150000,25000,Has child,4,2021-12-09
+39,Masters,In couple,43000,2000,Has child,2,2021-12-10
+62,Masters,In couple,130000,15000,Has child,3,2021-12-18
+56,Ph.D,In couple,100000,5700,Has child,2,2021-12-09
+39,Masters,In couple,78000,12000,Has child,2,2021-12-08
+24,Bachelor,Alone,30000,7000,No child,0,2021-12-31
+46,Bachelor,In couple,52000,3000,Has child,1,2021-12-19
+58,Masters,In couple,67000,4000,Has child,1,2021-12-04
+22,Masters,Alone,20000,2000,No child,0,2021-12-10
+26,Bachelor,In couple,60000,7000,No child,0,2021-12-12
+32,Masters,In couple,115000,10000,No child,0,2021-12-11
+34,Masters,In couple,150000,15000,Has child,2,2021-12-09
+31,Bachelor,In couple,70000,10000,Has child,2,2021-12-11
+27,Bachelor,In couple,50000,5000,Has child,1,2021-12-29
+32,Bachelor,In couple,45000,3000,Has child,2,2021-12-14
+35,Masters,In couple,40000,3000,Has child,1,2021-12-06
+31,Masters,In couple,30000,2000,Has child,1,2021-12-02
+27,Bachelor,In couple,30000,2500,Has child,2,2021-12-26
+29,Bachelor,In couple,75000,6000,No child,0,2021-12-30
+24,Bachelor,In couple,35000,4000,No child,0,2021-12-09
+23,Bachelor,In couple,26000,2000,No child,0,2021-12-22
+34,Masters,In couple,100000,10000,Has child,1,2021-12-04
+36,Bachelor,In couple,200000,15000,Has child,2,2021-12-05
+27,Bachelor,In couple,45000,4000,No child,0,2021-12-26
+32,Bachelor,In couple,70000,5000,Has child,2,2021-12-02
+21,Bachelor,Alone,25000,1500,No child,0,2021-12-19
+35,Masters,In couple,65000,3500,Has child,2,2021-12-03
+38,Ph.D,In couple,150000,10000,Has child,2,2021-12-31
+36,Ph.D,In couple,125000,8000,Has child,1,2021-12-06
+26,Bachelor,In couple,50000,3000,Has child,1,2021-12-31
+25,Bachelor,Alone,45000,4000,No child,0,2021-12-22
+24,Bachelor,Alone,35000,2000,No child,0,2021-12-05
+28,Masters,In couple,80000,8000,Has child,1,2021-12-10
+30,Bachelor,In couple,90000,10000,Has child,1,2021-12-24
+26,Bachelor,Alone,35000,4500,No child,0,2021-12-07
+29,Masters,In couple,65000,5000,Has child,1,2021-12-13
+30,Bachelor,In couple,80000,6500,Has child,2,2021-12-17
+23,Bachelor,Alone,30000,2000,No child,0,2021-12-18
+22,Bachelor,Alone,25000,1500,No child,0,2021-12-25
+23,Bachelor,Alone,26000,1500,No child,0,2021-12-26
+22,Masters,Alone,21500,4000,No child,0,2021-12-18
+23,Bachelor,Alone,26750,2000,No child,0,2021-12-17
+30,Masters,In couple,18000,3000,Has child,2,2021-12-15
+23,Masters,Alone,33000,5000,No child,0,2021-12-08
+22,Bachelor,Alone,40000,5000,No child,0,2021-12-02
+24,Masters,Alone,42500,4000,No child,0,2021-12-24
+54,Bachelor,In couple,18000,2700,Has child,1,2021-12-07
+21,Bachelor,Alone,19500,2000,No child,0,2021-12-09
+22,Bachelor,Alone,19750,2500,No child,0,2021-12-22
+54,Masters,In couple,20000,3500,Has child,1,2021-12-02
+23,Bachelor,Alone,35000,5000,No child,0,2021-12-25
+22,Bachelor,In couple,18000,1200,No child,0,2021-12-05
+36,Ph.D,In couple,18000,3000,Has child,3,2021-12-28
+36,Ph.D,In couple,20000,1800,Has child,1,2021-12-23
+50,Bachelor,In couple,17800,2600,Has child,2,2021-12-24
+56,Masters,In couple,18000,3500,Has child,2,2021-12-07
+44,Masters,In couple,180000,50000,Has child,2,2021-12-07
+42,Ph.D,In couple,100000,10000,Has child,2,2021-12-21
+55,Masters,In couple,200000,7000,Has child,1,2021-12-27
+48,Bachelor,In couple,150000,20000,Has child,4,2021-12-01
+66,Masters,Alone,300000,30000,No child,0,2021-12-26
+54,Masters,In couple,70000,20000,No child,0,2021-12-21
+49,Bachelor,In couple,66000,5000,Has child,2,2021-12-07
+59,Bachelor,In couple,40000,5000,Has child,1,2021-12-26
+34,Masters,In couple,35000,3500,Has child,2,2021-12-01
+44,Ph.D,In couple,150000,10000,Has child,2,2021-12-08
+55,Bachelor,In couple,50000,2000,Has child,3,2021-12-26
+56,Bachelor,Alone,78000,3000,No child,0,2021-12-02
+22,Bachelor,Alone,18000,3000,No child,0,2021-12-22
+25,Bachelor,Alone,20000,3000,No child,0,2021-12-08
+30,Masters,In couple,40000,6000,Has child,1,2021-12-23
+52,Ph.D,In couple,300000,20000,Has child,3,2021-12-02
+40,Ph.D,In couple,70000,4500,Has child,2,2021-12-13
+45,Bachelor,Alone,45000,10000,No child,0,2021-12-24
+51,Masters,In couple,200000,4500,Has child,4,2021-12-19
+45,Ph.D,In couple,60000,5000,Has child,2,2021-12-03
+55,Bachelor,In couple,40000,4000,Has child,2,2021-12-06
+30,Bachelor,In couple,20000,2000,Has child,1,2021-12-03
+26,Masters,Alone,25000,100,No child,0,2021-12-02
+25,Masters,Alone,44000,7000,No child,0,2021-12-28
+30,Masters,In couple,75000,7500,Has child,1,2021-12-03
+24,Masters,Alone,18000,250,No child,0,2021-12-09
+23,Bachelor,Alone,21000,3000,No child,0,2021-12-01
+31,Masters,Alone,20000,100,No child,0,2021-12-04
+28,Bachelor,In couple,20000,200,Has child,1,2021-12-02
+28,Masters,In couple,20000,100,Has child,2,2021-12-08
+25,Bachelor,In couple,25000,3000,Has child,2,2021-12-03
+28,Masters,In couple,25000,5000,Has child,2,2021-12-03
+26,Masters,In couple,25000,5000,Has child,2,2021-12-02
+28,Masters,In couple,30000,6000,Has child,3,2021-12-01
+29,Masters,In couple,40000,7000,Has child,3,2021-12-13
+24,Bachelor,In couple,25000,2000,Has child,1,2021-12-29
+29,Masters,In couple,20000,2500,Has child,2,2021-12-30
+25,Masters,Alone,20000,5000,No child,0,2021-12-20
+30,Masters,In couple,25000,7000,Has child,2,2021-12-13
+28,Masters,In couple,20000,2000,Has child,1,2021-12-13
+27,Masters,In couple,30000,5000,Has child,1,2021-12-30
+28,Masters,Alone,30000,1000,No child,0,2021-12-03
+42,Masters,In couple,25000,5000,Has child,2,2021-12-19
+55,Masters,In couple,45000,10000,Has child,3,2021-12-14
+46,Bachelor,In couple,50000,2000,Has child,2,2021-12-09
+57,Ph.D,In couple,60000,5000,Has child,2,2021-12-08
+55,Masters,In couple,55000,2000,Has child,2,2021-12-25
+57,Bachelor,Alone,20000,1000,No child,0,2021-12-30
+45,Masters,In couple,35000,4000,Has child,2,2021-12-04
+47,Bachelor,In couple,27000,1000,Has child,1,2021-12-25
+44,Masters,In couple,40000,2000,Has child,1,2021-12-12
+45,Masters,In couple,40000,4000,Has child,2,2021-12-21
+47,Bachelor,In couple,70000,9000,Has child,2,2021-12-07
+52,Bachelor,In couple,40000,1000,Has child,2,2021-12-12
+56,Masters,In couple,30000,1000,Has child,2,2021-12-23
+34,Bachelor,Alone,78000,15000,No child,0,2021-12-28
+56,Ph.D,Alone,300000,30000,Has child,2,2021-12-22
+25,Bachelor,Alone,45700,8000,No child,0,2021-12-28
+21,Bachelor,Alone,20000,1000,No child,0,2021-12-13
+47,Bachelor,In couple,40000,1000,Has child,1,2021-12-26
+22,Masters,Alone,32000,2500,No child,0,2021-12-14
+43,Bachelor,In couple,35009,1000,Has child,1,2021-12-28
+52,Masters,In couple,40000,3000,Has child,2,2021-12-28
+55,Masters,In couple,30000,3000,Has child,2,2021-12-29
+55,Masters,Alone,25000,1000,No child,0,2021-12-01
+35,Masters,In couple,55000,2500,Has child,2,2021-12-03
+25,Masters,Alone,31500,1500,No child,0,2021-12-29
+34,Masters,In couple,35000,1000,Has child,2,2021-12-27
+30,Bachelor,In couple,41000,2000,Has child,1,2021-12-26
+25,Bachelor,Alone,28000,2500,No child,0,2021-12-26
+45,Bachelor,In couple,60000,5000,Has child,2,2021-12-03
+50,Bachelor,In couple,20000,2000,Has child,2,2021-12-10
+32,Masters,In couple,18000,1000,Has child,2,2021-12-21
+35,Bachelor,In couple,20000,1500,Has child,3,2021-12-17
+45,Bachelor,In couple,35000,2000,Has child,2,2021-12-02
+44,Bachelor,In couple,35000,1000,Has child,1,2021-12-11
+56,Masters,In couple,50000,2500,Has child,3,2021-12-23
+54,Bachelor,In couple,50000,3500,Has child,2,2021-12-16
+55,Masters,In couple,40000,2300,Has child,2,2021-12-09
+56,Bachelor,In couple,30000,1000,Has child,2,2021-12-30
+57,Masters,In couple,30000,2000,Has child,2,2021-12-21
+41,Bachelor,In couple,20000,1000,Has child,1,2021-12-26
+42,Masters,In couple,50000,3700,Has child,1,2021-12-23
+43,Bachelor,In couple,40000,1000,Has child,1,2021-12-15
+44,Bachelor,In couple,40000,2000,Has child,1,2021-12-04
+45,Bachelor,In couple,35000,1000,Has child,1,2021-12-29
+46,Masters,In couple,65000,1000,Has child,1,2021-12-30
+47,Bachelor,In couple,47000,1000,Has child,1,2021-12-24
+48,Masters,In couple,50000,1000,Has child,1,2021-12-06
+49,Bachelor,In couple,40000,1000,Has child,1,2021-12-01
+50,Bachelor,In couple,50000,5000,Has child,2,2021-12-24
+51,Bachelor,In couple,50000,5900,Has child,1,2021-12-31
+52,Masters,In couple,30000,1000,Has child,1,2021-12-27
+53,Bachelor,In couple,53000,2000,Has child,1,2021-12-27
+54,Masters,In couple,20000,2000,Has child,1,2021-12-28
+55,Bachelor,In couple,35000,5000,Has child,2,2021-12-05
+56,Bachelor,In couple,45000,5000,Has child,2,2021-12-21
+57,Bachelor,In couple,30000,4000,Has child,2,2021-12-24
+58,Masters,In couple,40000,10000,Has child,1,2021-12-22
+59,Ph.D,In couple,50000,2000,Has child,2,2021-12-25
